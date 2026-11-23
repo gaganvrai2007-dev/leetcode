@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
