@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0002-add-two-numbers) |
+| [2469-convert-the-temperature](https://github.com/gaganvrai2007-dev/leetcode/tree/master/2469-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
