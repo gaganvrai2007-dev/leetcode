@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
