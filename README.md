@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -80,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/gaganvrai2007-dev/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gaganvrai2007-dev/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gaganvrai2007-dev/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
